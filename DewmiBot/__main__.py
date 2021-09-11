@@ -63,11 +63,11 @@ from DewmiBot.modules.helper_funcs.readable_time import get_readable_time
 PM_START_TEXT = """
 *Hi, my name is* ♪⭒ᏒᏗᏁᎶᏋᏒ ᏰᏋᏗᏖŽ⭒♪ [�](https://telegra.ph/file/2a45959a3d7055b30349e.jpg) !
 
-I am a Powerful Group Manager bot Developed by [GD Hiruna](t.me/hirunaofficial)
+I am a Powerful Group Manager bot Developed by [Blackthunder](t.me/blackthunder96)
 
 You can find my list of available commands with /help.
 
-©2021 [@DewmiBot](t.me/dewmibot) Bot All Rights Reserved
+©2021 [@rangerbeatz_bot](t.me/rangerbeatz_bot) Bot All Rights Reserved
 """
 
 HELP_STRINGS = f"""
@@ -102,15 +102,6 @@ BUTTONS = [
                          InlineKeyboardButton(
                              text=" 🔔 Update Channel ",
                              url="https://t.me/blackthunder96")
-                    ],
-                    [
-                        InlineKeyboardButton(
-                            text=" 🙋 Help ",
-                            url="https://t.me/dewmibot?start=help"),
-                         InlineKeyboardButton(
-                            text=" ⚡️ Developer ",
-                             url="https://t.me/blackthunder96")        
-                       
                     ],
                     [
                         InlineKeyboardButton(
