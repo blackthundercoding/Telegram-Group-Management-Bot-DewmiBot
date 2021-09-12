@@ -210,7 +210,7 @@ That's what approvals are for - approve of trustworthy users to allow them to se
 👉 `/approved`*:* List all approved users.
 👉 `/unapproveall`*:* Unapprove *ALL* users in a chat. This cannot be undone.
 
-@dewmibot
+@rangerbeatz_bot
 """
 
 APPROVE = DisableAbleCommandHandler("approve", approve)
