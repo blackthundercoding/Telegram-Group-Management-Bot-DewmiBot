@@ -630,7 +630,7 @@ doin?
 *Note*: Filters also support markdown formatters like: {first}, {last} etc.. and buttons.
 Check `/markdownhelp` to know more!
 
-@dewmibot
+@rangerbeatz_bot
 """
 
 __mod_name__ = "Filters 📜"
