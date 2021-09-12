@@ -382,7 +382,7 @@ __help__ = """
 
  👉 `/export`: Export group data, which will be exported are: rules, notes (documents, images, music, video, audio, voice, text, text buttons) \
  
- @dewmibot
+ @rangerbeatz_bot
 """
 
 IMPORT_HANDLER = CommandHandler("import", import_data)
