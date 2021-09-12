@@ -401,7 +401,7 @@ This allows you to connect to a chat's database, and add things to it without th
 *Admin only:*
  👉 /allowconnect <yes/no>*:* allow a user to connect to a chat
  
- @dewmibot
+ @rangerbeatz_bot
 """
 
 CONNECT_CHAT_HANDLER = CommandHandler("connect", connect_chat, pass_args=True)
