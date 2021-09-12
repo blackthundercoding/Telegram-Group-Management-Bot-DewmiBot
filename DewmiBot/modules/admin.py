@@ -474,7 +474,7 @@ __help__ = """
  👉 /admincache*:* force refresh the admins list
  👉 /zombies*:* scan and clean zombies
   
- @dewmibot
+@rangerbeatz_bot
 """
 
 ADMINLIST_HANDLER = DisableAbleCommandHandler("admins", adminlist)
