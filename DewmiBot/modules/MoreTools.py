@@ -25,6 +25,6 @@ __help__ = """
 ** More **
  👉 /phone <tp no> : Track Phone no
  
- @dewmibot
+ @rangerbeatz_bot
 """
 __mod_name__ = "More Tools 🧩"
