@@ -61,7 +61,7 @@ from DewmiBot.modules.helper_funcs.misc import paginate_modules
 from DewmiBot.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-*Hi, my name is* ♪⭒ᏒᏗᏁᎶᏋᏒ ᏰᏋᏗᏖŽ⭒♪ [](https://telegra.ph/file/2a45959a3d7055b30349e.jpg) !
+*Hi, my name is* ♪⭒ᏒᏗᏁᎶᏋᏒ ᏰᏋᏗᏖŽ⭒♪ (https://telegra.ph/file/2a45959a3d7055b30349e.jpg) !
 
 I am a Powerful Group Manager bot Developed by [Blackthunder](t.me/blackthunder96)
 
