@@ -240,7 +240,7 @@ __help__ = """
  👉 /gignoreblue <word>*:* globally ignores bluetext cleaning of saved word across Suzuya.
  👉 /ungignoreblue <word>*:* remove said command from global cleaning list
  
- @dewmibot
+ @rangerbeatz_bot
 """
 
 SET_CLEAN_BLUE_TEXT_HANDLER = CommandHandler("cleanblue", set_blue_text_must_click)
