@@ -152,7 +152,7 @@ __help__ = """
  
  When marked as AFK, any mentions will be replied to with a message to say you're not available!
  
- @dewmibot
+ @rangerbeatz_bot
 """
 
 AFK_HANDLER = DisableAbleCommandHandler("afk", afk)
