@@ -582,7 +582,7 @@ Get information about anime, manga or characters from [AniList](anilist.co).
  👉 `/kayo <anime>`*:* search an anime on animekayo.com
  👉 `/airing <anime>`*:* returns anime airing info.
  
- @dewmibot
+ @rangerbeatz_bot
  """
 
 ANIME_HANDLER = DisableAbleCommandHandler("anime", anime)
