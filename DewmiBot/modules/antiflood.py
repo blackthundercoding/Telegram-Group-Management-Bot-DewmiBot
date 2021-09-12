@@ -410,7 +410,7 @@ __help__ = """
  3d = 3 days
  1w = 1 week
  
- @dewmibot
+ @rangerbeatz_bot
  """
 
 __mod_name__ = "Antiflood 🛡"
