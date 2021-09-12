@@ -12,7 +12,7 @@ __help__ = """
 2️⃣ Send /userbotjoinchannel in linked group
 3️⃣ Now send commands in linked group
 
-* 👥📺Groups Music Play👥📺 *
+* 👥📺Groups Video Play👥📺 *
 
 ❍ /vplay (reply to video or file) - to stream video
 ❍ /vstop - end the video streaming
