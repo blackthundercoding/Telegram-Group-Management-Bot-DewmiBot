@@ -60,9 +60,10 @@ channel is also can be used instead of c ( /cplay = /channelplay )
  
 * Assisten *
 
-@vcpalyassistant
+@rangerbeatz_videoplayer
+@rangerbeatz_assistant
 * 🤖Bot🤖 *
 
-@szrosebot
+@rangerbeatz_bot
 """
 __mod_name__ = "VC music Play🎙"
